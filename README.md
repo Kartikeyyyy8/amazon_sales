@@ -24,6 +24,4 @@ This project analyzes Amazon product data using Python.
 - amazon.csv
 - README.md
 
-## Author
 
-Kartikey Gupta
